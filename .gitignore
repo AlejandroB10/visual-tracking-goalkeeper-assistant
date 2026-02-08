@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs / caches
+results*/
+
+# Videos / large media (keep repo lightweight)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# PDFs (optional; comment out if you want to track them)
+# *.pdf
